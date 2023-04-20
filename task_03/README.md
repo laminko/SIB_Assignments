@@ -14,5 +14,5 @@ The purpose of this repository is to provide a starting point for developing a d
 
 The following files are included in this repository:
 
-[task_03.sql](task_03.sql) A Postgres SQL script that creates a database schema based on the ERD diagram.
-[ERD.png](ERD.png): An image file that displays the ERD diagram.
+- [task_03.sql](task_03.sql) A Postgres SQL script that creates a database schema based on the ERD diagram.
+- [ERD.png](ERD.png): An image file that displays the ERD diagram.
