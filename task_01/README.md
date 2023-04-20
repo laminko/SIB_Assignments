@@ -1,8 +1,13 @@
 # Coin Exchange
 
+## Introduction
+
+This program is designed to find the least number of coins needed to make change for a given amount of money.
+
+
 ## Requirements
 
-To run this program, `Python 3.10` is required.
+- Python 3.8+
 
 
 ## Test
